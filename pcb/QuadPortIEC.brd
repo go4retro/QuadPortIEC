@@ -3580,6 +3580,8 @@
 <rectangle x1="-31.2547" y1="4.8641" x2="-30.5689" y2="4.9403" layer="25"/>
 <hole x="42.2529" y="-19.7485" drill="3.5052"/>
 <hole x="-42.2529" y="-19.7485" drill="3.5052"/>
+<dimension x1="-49.53" y1="30.48" x2="-49.53" y2="-30.48" x3="-52.07" y3="0" textsize="1.778" layer="20"/>
+<dimension x1="-49.53" y1="30.48" x2="49.53" y2="30.48" x3="0" y3="31.75" textsize="1.778" layer="20"/>
 </plain>
 <libraries>
 <library name="con-hirschmann">
